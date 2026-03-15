@@ -1,4 +1,4 @@
-### Introduction to the BEP2/BEP8 Asset Binding Progress Tracker for BC Fusion
+https://github.com/bnb-chain/bcfusion.git### Introduction to the BEP2/BEP8 Asset Binding Progress Tracker for BC Fusion
 
 Welcome to our dedicated repository, a central hub for tracking and documenting the ongoing advancements in BEP2/BEP8
 asset binding within the BC Fusion initiative. This repository serves as a vital resource for developers, investors, and
